@@ -236,6 +236,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
+- [Excalidraw](https://excalidraw.com/) : An online whiteboard very helpful for technical planning, design interviews, and illustrate ideas for pair programmings or Spikes. 
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
 - [Hotkey Cheatsheet](https://hotkeycheatsheet.com) : A comprehensive hotkey cheatsheet for popular software and applications
 - [Imgur](https://imgur.com/) : Online image sharing and image hosting service.
@@ -244,6 +245,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Ray.so](https://www.ray.so/): Beautiful code snippet screenshots.
+- [Rubular](https://rubular.com/): Perfect to try complex regular expressions or quickly remind regex rules
 - [Prodia AI Image API](https://prodia.com/) : API for open sourced image models
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
@@ -436,6 +438,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
+- [Try Ruby](https://try.ruby-lang.org/): Learn to programming in Ruby online, from the very beginning
 
 - [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
 
