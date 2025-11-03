@@ -4,51 +4,51 @@
     <br>
 </h1>
 
-[![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
+# Melhores sites para pessoas programadoras
+Sites úteis para pessoas programadoras.
 
-# Best-websites-a-programmer-should-visit
-Some useful websites for programmers.
-
-When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
+Abaixo estão alguns sites muito úteis para que você se mantenha sempre informado(a) e aprenda coisas novas. Você connhece algum site que não está nessa lista? Abra um Pull Request ;)
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+**Note** : [English Version](https://github.com/debborafernandess/Melhores-sites-para-pessoas-programadoras/en/)
+**Note** : Este site está sendo traduzido para PT-br a partir da [versão inglês](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) (Kudos @sdmg15!), PRs são bem-vindos
 
 ## 📖 Index
 <ul>
-<li><a href="#-when-you-get-stuck">When you get stuck</a></li>
-<li><a href="#-news">News</a></li>
-<li><a href="#-magazines">Magazines</a></li>
-<li><a href="#-coding-practice-for-beginners">Coding practice for beginners</a></li>
-<li><a href="#-cryptocurrency">Cryptocurrency</a></li>
-<li><a href="#-for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
-<li><a href="#-general-coding-advice">General Coding advice</a></li>
+<li><a href="#-when-you-get-stuck">Quando você travar</a></li>
+<li><a href="#-news">Novidades</a></li>
+<li><a href="#-magazines">Revistas</a></li>
+<li><a href="#-coding-practice-for-beginners">Iniciantes - code e pratique</a></li>
+<li><a href="#-cryptocurrency">Crypto</a></li>
+<li><a href="#-for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">Ideias para quem quer começar um projeto</a></li>
+<li><a href="#-general-coding-advice">Dicas gerais de programação</a></li>
 <li><a href="#-coding-style">Coding Style</a></li>
-<li><a href="#-general-tools">General Tools</a></li>
-<li><a href="#-interview-preparation">Interview Preparation</a></li>
-<li><a href="#-documentaries">Documentaries</a></li>
-<li><a href="#-moocs-for-learning-something-new">MOOCs for learning something new</a></li>
-<li><a href="#-sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
-<li><a href="#-learn-ai">Artificial Intelligence And Machine Learning</a></li>
+<li><a href="#-general-tools">Ferramentas gerais</a></li>
+<li><a href="#-interview-preparation">Preparação para entrevista</a></li>
+<li><a href="#-documentaries">Documentáries</a></li>
+<li><a href="#-moocs-for-learning-something-new">MOOCs para aprender algo novo</a></li>
+<li><a href="#-sites-related-to-your-preferred-programming-language-for-me-ruby">Sites para sua linguagem de programação preferida (Ruby <3 pra mim)</a></li>
+<li><a href="#-learn-ai">Inleligência artificial e And Machine Learning</a></li>
 <li><a href="#-seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
-<li><a href="#-everything-in-one-place">Everything in one place</a></li>
+<li><a href="#-everything-in-one-place">Tudo em um só lugar</a></li>
 <li><a href="#-youtube-channels">YouTube Channels</a></li>
-<li><a href="#-good-articles">Good Articles</a></li>
+<li><a href="#-good-articles">Artigos bons</a></li>
 <li><a href="#-bash-and-shell-scripting">Bash and Shell scripting</a></li>
 <li><a href="#-podcasts">Podcasts</a></li>
-<li><a href="#-building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
-<li><a href="#-watch-others-code">Watch others code</a></li>
-<li><a href="#-tutorials">Tutorials</a></li>
-<li><a href="#-what-should-a-programmer-know">What should a programmer know</a></li>
+<li><a href="#-building-a-simple-compilerinterpreter">Construindo um Compiler/Interpretador simples</a></li>
+<li><a href="#-watch-others-code">Observe código de outras pessoas</a></li>
+<li><a href="#-tutorials">Tutoriais</a></li>
+<li><a href="#-what-should-a-programmer-know">O que uma pessoa programadora precisa saber</a></li>
 <li><a href="#-competitive-programming">Competitive programming</a></li>
 <li><a href="#-computer-books">Computer Books</a></li>
-<li><a href="#-video-tutorials">Video Tutorials</a></li>
+<li><a href="#-video-tutorials">Video Tutoriais</a></li>
 <li><a href="#-online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
-<li><a href="#-blogs-of-developers">Blogs of Developers</a></li>
-<li><a href="#-for-improving-your-english">For improving your English</a></li>
+<li><a href="#-blogs-of-developers">Blogs de Pessoas Desenvolvedoras</a></li>
+<li><a href="#-for-improving-your-english">Pra melhorar seu Inglês</a></li>
 <li><a href="#-when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
-<li><a href="#-open-source-websites">Open Source Websites</a></li>
-<li><a href="#-internships">Internships</a></li>
-<li><a href="#-jobs">Jobs</a></li>
+<li><a href="#-open-source-websites">Sites Open Source</a></li>
+<li><a href="#-internships">Estágios</a></li>
+<li><a href="#-jobs">Vagas</a></li>
 </ul>
 
 ## ❓ When you get stuck
@@ -407,7 +407,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## 🧑‍💻 Sites related to your preferred programming language (For me C++)
+## 🧑‍💻 Sites related to your preferred programming language (For me Ruby <3)
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
