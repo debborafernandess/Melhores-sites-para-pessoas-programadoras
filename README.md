@@ -5,15 +5,17 @@
 </h1>
 
 # Melhores sites para pessoas programadoras
-Sites úteis para pessoas programadoras.
+Aqui estão alguns sites úteis para que você se mantenha sempre informado(a) e aprenda coisas novas. 
 
-Abaixo estão alguns sites muito úteis para que você se mantenha sempre informado(a) e aprenda coisas novas. Você connhece algum site que não está nessa lista? Abra um Pull Request ;)
+Você conhece algum site legal que não está nessa lista? Abra um Pull Request ;)
 
-**Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
-**Note** : [English Version](https://github.com/debborafernandess/Melhores-sites-para-pessoas-programadoras/en/)
 **Note** : Este site está sendo traduzido para PT-br a partir da [versão inglês](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) (Kudos @sdmg15!), PRs são bem-vindos
 
-## 📖 Index
+[Versão em Chinês](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | [English Version](https://github.com/debborafernandess/Melhores-sites-para-pessoas-programadoras/en/)
+
+
+
+## 📖 Sumário
 <ul>
 <li><a href="#-when-you-get-stuck">Quando você travar</a></li>
 <li><a href="#-news">Novidades</a></li>
@@ -29,9 +31,9 @@ Abaixo estão alguns sites muito úteis para que você se mantenha sempre inform
 <li><a href="#-moocs-for-learning-something-new">MOOCs para aprender algo novo</a></li>
 <li><a href="#-sites-related-to-your-preferred-programming-language-for-me-ruby">Sites para sua linguagem de programação preferida (Ruby <3 pra mim)</a></li>
 <li><a href="#-learn-ai">Inleligência artificial e And Machine Learning</a></li>
-<li><a href="#-seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
+<li><a href="#-seminar-research-writing-talks-etc">Seminários, pesquisas, talks etc</a></li>
 <li><a href="#-everything-in-one-place">Tudo em um só lugar</a></li>
-<li><a href="#-youtube-channels">YouTube Channels</a></li>
+<li><a href="#-youtube-channels">Canais do YouTube</a></li>
 <li><a href="#-good-articles">Artigos bons</a></li>
 <li><a href="#-bash-and-shell-scripting">Bash and Shell scripting</a></li>
 <li><a href="#-podcasts">Podcasts</a></li>
@@ -45,13 +47,13 @@ Abaixo estão alguns sites muito úteis para que você se mantenha sempre inform
 <li><a href="#-online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
 <li><a href="#-blogs-of-developers">Blogs de Pessoas Desenvolvedoras</a></li>
 <li><a href="#-for-improving-your-english">Pra melhorar seu Inglês</a></li>
-<li><a href="#-when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
+<li><a href="#-when-you-get-bored-from-cs-related-stuff">Quando você se entediar</a></li>
 <li><a href="#-open-source-websites">Sites Open Source</a></li>
-<li><a href="#-internships">Estágios</a></li>
-<li><a href="#-jobs">Vagas</a></li>
+<!-- <li><a href="#-internships">Estágios</a></li> -->
+<!-- <li><a href="#-jobs">Vagas</a></li> -->
 </ul>
 
-## ❓ When you get stuck
+## ❓ Quando você travar
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
