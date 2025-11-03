@@ -64,7 +64,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 📰 News
@@ -100,7 +100,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Hackaday](https://hackaday.com) : Hacking is an art form that uses something in a way in which it was not originally intended.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 📚 Magazines
@@ -109,7 +109,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 👶 Coding practice for beginners
@@ -144,7 +144,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [SQLTest.online](https://sqltest.online) : Boost Your SQL Proficiency with Challenging Problems.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 💰 CryptoCurrency
@@ -162,7 +162,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 💡 For those who want to start a small project but can't find the ideas
@@ -175,7 +175,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) : A Collection of application ideas which can be used to improve your coding skills.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🗣️ General Coding advice
@@ -199,7 +199,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🎨 Coding Style
@@ -228,7 +228,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Uber Go Style Guide](https://github.com/uber-go/guide): Uber Go Style Guide
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🛠️ General Tools
@@ -280,7 +280,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🐚 Bash and Shell scripting  
@@ -296,7 +296,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [25 Common Linux Bash Script Examples To Get You Started](https://www.hostinger.in/tutorials/bash-script-example) 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🎤 Interview Preparation
@@ -366,7 +366,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🎬 Documentaries
@@ -387,7 +387,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🎓 MOOCs for learning something new
@@ -406,7 +406,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Pluralsight](https://www.pluralsight.com) : An online learning and workforce development platform that helps businesses and individuals adjust to changing technology.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🧑‍💻 Sites related to your preferred programming language (For me Ruby <3)
@@ -448,7 +448,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🤖 Learn AI
@@ -472,7 +472,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [MLU-EXPLAIN](https://mlu-explain.github.io/) : Machine Learning University (MLU) is an education initiative from Amazon designed for visual explanations of core machine learning concepts.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 📢 Seminar, research writing, talks, etc
@@ -484,7 +484,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 📦 Everything in one place
@@ -511,7 +511,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Library or micro code solutions](https://onelinerhub.com/) : Community library of micro code pieces for popular issues.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 📺 YouTube Channels
@@ -564,7 +564,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## ✍️ Good Articles
@@ -596,7 +596,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : Step By Step guide to pass Tensorflow Developer Certification
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🎧 Podcasts
@@ -627,7 +627,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🔄 Building a Simple Compiler/Interpreter
@@ -644,7 +644,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html) : The first post in a series by Nora Sandler on writing your own C compiler
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🧑‍🏫 Tutorials
@@ -705,7 +705,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 👀 Watch others code
@@ -713,7 +713,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🧠 What should a programmer know
@@ -722,7 +722,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [GitLab](https://about.gitlab.com) : An alternative to GitHub that offers free unlimited (private) repositories and unlimited collaborators.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## ⚔️  Competitive programming
@@ -753,7 +753,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [A2OJ Ladders](https://a2oj.com/Ladders.html) : Practice codeforces problems based on your proficiency and difficulty
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 📖 Computer Books
@@ -769,7 +769,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [programmingbooks.dev](https://www.programmingbooks.dev) : An Ordered and Curated Reading List for Software Craftsmanship Growth.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🔴 Video Tutorials
@@ -796,7 +796,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 💻 Online Compiler and Sharing Code snippets
@@ -821,7 +821,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [PHPize.online](https://phpize.online/): Online PHP compiler with SQL support.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 📝 Blogs of Developers
@@ -866,7 +866,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🗣️ For improving your English
@@ -878,7 +878,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [AntiMoon Immersion Approach](http://www.antimoon.com/how/howtolearn.htm): Immersion-based learning of English, can be used by people on different levels.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🧘‍♂️ When you get bored from CS related stuff
@@ -902,7 +902,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🔓 Open Source Websites
@@ -930,7 +930,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 🌱 Internships
@@ -940,7 +940,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ## 💼 Jobs
@@ -975,7 +975,7 @@ Você conhece algum site legal que não está nessa lista? Abra um Pull Request 
 - [OkJob](https://okjob.io/) : 4 day week job board.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Voltar ao Topo</a></b>
 </div>
 
 ### 🌟 Special Thanks
